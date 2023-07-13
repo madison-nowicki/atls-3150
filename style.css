@@ -1,0 +1,33 @@
+h1, h2 {
+    color: #B5338A;
+  }
+  
+  p {
+    color: black;
+  }
+  
+  ul {
+    border: 4px solid #0A6522;
+  }
+  
+  ol {
+    border: 4px solid #FB5AAA;
+  }
+  
+  ol, ul {
+    margin: 25px;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    color: #241571;
+  }
+  
+  strong {
+    color: #DD571C;
+  }
+  
+  em {
+    color: black;
+  }
